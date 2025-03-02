@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "01F7EB3A-90E2-4483-B144-BCA19EE21CFC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1018453B-3DE7-4B69-8DEF-E0EB43D3D18F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab 3.3 exato/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "1018453B-3DE7-4B69-8DEF-E0EB43D3D18F - 73b83cc1497d23bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "lab 3.3 exato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InesCosta/Desktop/programac%CC%A7a%CC%83o/lab%203.3%20exato/lab%203.3%20exato/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "1018453B-3DE7-4B69-8DEF-E0EB43D3D18F - 73b83cc1497d23bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "lab 3.3 exato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InesCosta/Desktop/programac%CC%A7a%CC%83o/lab%203.3%20exato/lab%203.3%20exato/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  uuid = "1018453B-3DE7-4B69-8DEF-E0EB43D3D18F - 73b83cc1497d2dcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "lab 3.3 exato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InesCosta/Desktop/programac%CC%A7a%CC%83o/lab%203.3%20exato/lab%203.3%20exato/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "278">
+               </Location>
+               <Location
+                  uuid = "1018453B-3DE7-4B69-8DEF-E0EB43D3D18F - 73b83cc1497d2e2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "lab 3.3 exato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InesCosta/Desktop/programac%CC%A7a%CC%83o/lab%203.3%20exato/lab%203.3%20exato/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "278">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF007940-E71E-49AD-A3C5-286E08BAB3BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab 3.3 exato/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ordenacao(lista, k, n, numeros)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "DF007940-E71E-49AD-A3C5-286E08BAB3BA - b528940867a33b49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ordenacao"
+                  moduleName = "lab 3.3 exato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InesCosta/Desktop/programac%CC%A7a%CC%83o/lab%203.3%20exato/lab%203.3%20exato/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "DF007940-E71E-49AD-A3C5-286E08BAB3BA - b528940867a33b49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ordenacao"
+                  moduleName = "lab 3.3 exato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InesCosta/Desktop/programac%CC%A7a%CC%83o/lab%203.3%20exato/lab%203.3%20exato/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF152F52-324D-4E1E-BCA2-0C1F18E11456"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab 3.3 exato/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ordenacao(lista, k, n, numeros)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EF152F52-324D-4E1E-BCA2-0C1F18E11456 - b528940867a33a8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ordenacao"
+                  moduleName = "lab 3.3 exato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InesCosta/Desktop/programac%CC%A7a%CC%83o/lab%203.3%20exato/lab%203.3%20exato/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "EF152F52-324D-4E1E-BCA2-0C1F18E11456 - b528940867a33a8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ordenacao"
+                  moduleName = "lab 3.3 exato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InesCosta/Desktop/programac%CC%A7a%CC%83o/lab%203.3%20exato/lab%203.3%20exato/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "182">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD4789BC-AF1B-40F3-8775-FBD10ED6B5C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab 3.3 exato/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ordenacao(lista, k, n, numeros)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "AD4789BC-AF1B-40F3-8775-FBD10ED6B5C1 - b528940867a33b6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ordenacao"
+                  moduleName = "lab 3.3 exato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InesCosta/Desktop/programac%CC%A7a%CC%83o/lab%203.3%20exato/lab%203.3%20exato/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "AD4789BC-AF1B-40F3-8775-FBD10ED6B5C1 - b528940867a33b6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ordenacao"
+                  moduleName = "lab 3.3 exato"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/InesCosta/Desktop/programac%CC%A7a%CC%83o/lab%203.3%20exato/lab%203.3%20exato/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
